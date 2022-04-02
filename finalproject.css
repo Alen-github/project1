@@ -1,0 +1,106 @@
+#navbarul
+{
+   margin-left: 20px;
+}
+#carousalimg
+{
+   height: 500px;
+   object-fit: cover;
+}
+#caption
+{
+   position: absolute;
+   font-size: 43px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-weight: 500;
+   color: white;
+   width: 500px;
+   left: 65%;
+   top: 20%;
+   line-height: 100px;
+}
+.navbar
+{
+   position: sticky;
+   top: 1px;
+}
+.card
+{
+   height: 400px;
+   background-color: rgb(179, 162, 162);
+   object-fit: cover;
+}
+.card2
+{
+   height: 685px;
+   object-fit: cover;
+}
+.i1
+{
+   height: 250px;
+   object-fit: cover;
+}
+#button
+{
+   position: sticky;
+   float: right;
+   top: 600px;
+   z-index: 1;
+}
+.form-label
+{
+   color: black;
+   font-size: 20px;
+}
+.i2
+{
+   height: 650px;
+   object-fit: cover;
+   padding: 2px;
+}
+.i3
+{
+   height: 600px;
+   object-fit: cover;
+   padding: 3px;
+}
+.card2
+{
+   border: 0.001cm solid black;
+}
+.letter{
+   background-color: rgb(42, 42, 162);
+}
+.l1
+{
+   height: 300px;
+   object-fit: cover;
+}
+
+#table
+{
+
+    left: 50px;
+    width: 1200px;
+    height: 250px;
+    
+    left: 10px;
+    display: flex;
+    flex: 25%;
+    justify-content: space-evenly;
+
+}
+button{
+   background-color: chartreuse;
+   color: black;
+   font-family: 'Dancing Script', cursive;
+}
+#social
+{
+   margin-top: 50px;
+    padding: 10px;
+  
+    display: flex;
+justify-content: space-evenly;
+}
+
